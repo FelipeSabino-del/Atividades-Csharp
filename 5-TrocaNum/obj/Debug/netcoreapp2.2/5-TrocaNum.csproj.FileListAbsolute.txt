@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\bin\Debug\netcoreapp2.2\5-TrocaNum.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\bin\Debug\netcoreapp2.2\5-TrocaNum.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\bin\Debug\netcoreapp2.2\5-TrocaNum.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\bin\Debug\netcoreapp2.2\5-TrocaNum.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\bin\Debug\netcoreapp2.2\5-TrocaNum.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\obj\Debug\netcoreapp2.2\5-TrocaNum.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\obj\Debug\netcoreapp2.2\5-TrocaNum.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\obj\Debug\netcoreapp2.2\5-TrocaNum.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\obj\Debug\netcoreapp2.2\5-TrocaNum.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\obj\Debug\netcoreapp2.2\5-TrocaNum.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\5-TrocaNum\obj\Debug\netcoreapp2.2\5-TrocaNum.pdb

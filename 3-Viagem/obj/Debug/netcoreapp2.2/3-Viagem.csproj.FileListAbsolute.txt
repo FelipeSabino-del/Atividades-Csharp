@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\bin\Debug\netcoreapp2.2\3-Viagem.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\bin\Debug\netcoreapp2.2\3-Viagem.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\bin\Debug\netcoreapp2.2\3-Viagem.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\bin\Debug\netcoreapp2.2\3-Viagem.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\bin\Debug\netcoreapp2.2\3-Viagem.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\obj\Debug\netcoreapp2.2\3-Viagem.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\obj\Debug\netcoreapp2.2\3-Viagem.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\obj\Debug\netcoreapp2.2\3-Viagem.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\obj\Debug\netcoreapp2.2\3-Viagem.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\obj\Debug\netcoreapp2.2\3-Viagem.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\3-Viagem\obj\Debug\netcoreapp2.2\3-Viagem.pdb

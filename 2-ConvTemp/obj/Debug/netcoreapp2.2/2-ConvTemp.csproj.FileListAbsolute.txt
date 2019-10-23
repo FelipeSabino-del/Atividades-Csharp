@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\bin\Debug\netcoreapp2.2\2-ConvTemp.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\bin\Debug\netcoreapp2.2\2-ConvTemp.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\bin\Debug\netcoreapp2.2\2-ConvTemp.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\bin\Debug\netcoreapp2.2\2-ConvTemp.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\bin\Debug\netcoreapp2.2\2-ConvTemp.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\obj\Debug\netcoreapp2.2\2-ConvTemp.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\obj\Debug\netcoreapp2.2\2-ConvTemp.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\obj\Debug\netcoreapp2.2\2-ConvTemp.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\obj\Debug\netcoreapp2.2\2-ConvTemp.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\obj\Debug\netcoreapp2.2\2-ConvTemp.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\2-ConvTemp\obj\Debug\netcoreapp2.2\2-ConvTemp.pdb
