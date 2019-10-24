@@ -7,6 +7,7 @@ namespace _6_0a100
         static void Main(string[] args)
         {
             Console.Clear();
+            System.Console.WriteLine("0 a 100");
             System.Console.Write ("ENTER para começar");
             Console.ReadLine();
             System.Console.WriteLine();

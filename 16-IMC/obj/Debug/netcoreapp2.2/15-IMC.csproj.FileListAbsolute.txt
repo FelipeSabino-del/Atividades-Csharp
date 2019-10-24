@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\bin\Debug\netcoreapp2.2\15-IMC.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\bin\Debug\netcoreapp2.2\15-IMC.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\bin\Debug\netcoreapp2.2\15-IMC.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\bin\Debug\netcoreapp2.2\15-IMC.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\bin\Debug\netcoreapp2.2\15-IMC.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\obj\Debug\netcoreapp2.2\15-IMC.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\obj\Debug\netcoreapp2.2\15-IMC.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\obj\Debug\netcoreapp2.2\15-IMC.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\obj\Debug\netcoreapp2.2\15-IMC.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\obj\Debug\netcoreapp2.2\15-IMC.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\16-IMC\obj\Debug\netcoreapp2.2\15-IMC.pdb

@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\bin\Debug\netcoreapp2.2\11-Nomes.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\bin\Debug\netcoreapp2.2\11-Nomes.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\bin\Debug\netcoreapp2.2\11-Nomes.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\bin\Debug\netcoreapp2.2\11-Nomes.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\bin\Debug\netcoreapp2.2\11-Nomes.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\obj\Debug\netcoreapp2.2\11-Nomes.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\obj\Debug\netcoreapp2.2\11-Nomes.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\obj\Debug\netcoreapp2.2\11-Nomes.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\obj\Debug\netcoreapp2.2\11-Nomes.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\obj\Debug\netcoreapp2.2\11-Nomes.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\11-Nomes\obj\Debug\netcoreapp2.2\11-Nomes.pdb

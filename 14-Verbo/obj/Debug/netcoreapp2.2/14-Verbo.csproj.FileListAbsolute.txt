@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\bin\Debug\netcoreapp2.2\14-Verbo.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\bin\Debug\netcoreapp2.2\14-Verbo.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\bin\Debug\netcoreapp2.2\14-Verbo.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\bin\Debug\netcoreapp2.2\14-Verbo.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\bin\Debug\netcoreapp2.2\14-Verbo.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\obj\Debug\netcoreapp2.2\14-Verbo.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\obj\Debug\netcoreapp2.2\14-Verbo.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\obj\Debug\netcoreapp2.2\14-Verbo.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\obj\Debug\netcoreapp2.2\14-Verbo.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\obj\Debug\netcoreapp2.2\14-Verbo.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\14-Verbo\obj\Debug\netcoreapp2.2\14-Verbo.pdb

@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\bin\Debug\netcoreapp2.2\13-NumTriang.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\bin\Debug\netcoreapp2.2\13-NumTriang.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\bin\Debug\netcoreapp2.2\13-NumTriang.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\bin\Debug\netcoreapp2.2\13-NumTriang.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\bin\Debug\netcoreapp2.2\13-NumTriang.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\obj\Debug\netcoreapp2.2\13-NumTriang.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\obj\Debug\netcoreapp2.2\13-NumTriang.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\obj\Debug\netcoreapp2.2\13-NumTriang.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\obj\Debug\netcoreapp2.2\13-NumTriang.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\obj\Debug\netcoreapp2.2\13-NumTriang.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\13-NumTriang\obj\Debug\netcoreapp2.2\13-NumTriang.pdb

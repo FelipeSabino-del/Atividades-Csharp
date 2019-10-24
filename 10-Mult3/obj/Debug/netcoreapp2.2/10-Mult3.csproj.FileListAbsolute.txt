@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\bin\Debug\netcoreapp2.2\10-Mult3.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\bin\Debug\netcoreapp2.2\10-Mult3.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\bin\Debug\netcoreapp2.2\10-Mult3.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\bin\Debug\netcoreapp2.2\10-Mult3.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\bin\Debug\netcoreapp2.2\10-Mult3.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\obj\Debug\netcoreapp2.2\10-Mult3.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\obj\Debug\netcoreapp2.2\10-Mult3.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\obj\Debug\netcoreapp2.2\10-Mult3.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\obj\Debug\netcoreapp2.2\10-Mult3.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\obj\Debug\netcoreapp2.2\10-Mult3.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\10-Mult3\obj\Debug\netcoreapp2.2\10-Mult3.pdb

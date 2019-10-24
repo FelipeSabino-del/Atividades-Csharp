@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\bin\Debug\netcoreapp2.2\12-OrdemNum.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\bin\Debug\netcoreapp2.2\12-OrdemNum.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\bin\Debug\netcoreapp2.2\12-OrdemNum.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\bin\Debug\netcoreapp2.2\12-OrdemNum.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\bin\Debug\netcoreapp2.2\12-OrdemNum.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\obj\Debug\netcoreapp2.2\12-OrdemNum.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\obj\Debug\netcoreapp2.2\12-OrdemNum.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\obj\Debug\netcoreapp2.2\12-OrdemNum.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\obj\Debug\netcoreapp2.2\12-OrdemNum.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\obj\Debug\netcoreapp2.2\12-OrdemNum.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\12-OrdemNum\obj\Debug\netcoreapp2.2\12-OrdemNum.pdb

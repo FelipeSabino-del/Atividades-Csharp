@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\bin\Debug\netcoreapp2.2\9-Gravidade.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\bin\Debug\netcoreapp2.2\9-Gravidade.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\bin\Debug\netcoreapp2.2\9-Gravidade.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\bin\Debug\netcoreapp2.2\9-Gravidade.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\bin\Debug\netcoreapp2.2\9-Gravidade.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\obj\Debug\netcoreapp2.2\9-Gravidade.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\obj\Debug\netcoreapp2.2\9-Gravidade.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\obj\Debug\netcoreapp2.2\9-Gravidade.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\obj\Debug\netcoreapp2.2\9-Gravidade.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\obj\Debug\netcoreapp2.2\9-Gravidade.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\9-Gravidade\obj\Debug\netcoreapp2.2\9-Gravidade.pdb

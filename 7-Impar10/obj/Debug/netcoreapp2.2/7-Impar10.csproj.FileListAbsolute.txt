@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\bin\Debug\netcoreapp2.2\7-Impar10.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\bin\Debug\netcoreapp2.2\7-Impar10.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\bin\Debug\netcoreapp2.2\7-Impar10.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\bin\Debug\netcoreapp2.2\7-Impar10.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\bin\Debug\netcoreapp2.2\7-Impar10.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\obj\Debug\netcoreapp2.2\7-Impar10.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\obj\Debug\netcoreapp2.2\7-Impar10.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\obj\Debug\netcoreapp2.2\7-Impar10.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\obj\Debug\netcoreapp2.2\7-Impar10.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\obj\Debug\netcoreapp2.2\7-Impar10.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\7-Impar10\obj\Debug\netcoreapp2.2\7-Impar10.pdb
