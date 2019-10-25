@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\bin\Debug\netcoreapp2.2\21-CaixaNotas.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\bin\Debug\netcoreapp2.2\21-CaixaNotas.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\bin\Debug\netcoreapp2.2\21-CaixaNotas.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\bin\Debug\netcoreapp2.2\21-CaixaNotas.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\bin\Debug\netcoreapp2.2\21-CaixaNotas.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\obj\Debug\netcoreapp2.2\21-CaixaNotas.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\obj\Debug\netcoreapp2.2\21-CaixaNotas.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\obj\Debug\netcoreapp2.2\21-CaixaNotas.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\obj\Debug\netcoreapp2.2\21-CaixaNotas.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\obj\Debug\netcoreapp2.2\21-CaixaNotas.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\21-CaixaNotas\obj\Debug\netcoreapp2.2\21-CaixaNotas.pdb

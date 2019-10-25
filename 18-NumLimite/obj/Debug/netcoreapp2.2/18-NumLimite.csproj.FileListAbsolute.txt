@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\bin\Debug\netcoreapp2.2\18-NumLimite.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\bin\Debug\netcoreapp2.2\18-NumLimite.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\bin\Debug\netcoreapp2.2\18-NumLimite.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\bin\Debug\netcoreapp2.2\18-NumLimite.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\bin\Debug\netcoreapp2.2\18-NumLimite.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\obj\Debug\netcoreapp2.2\18-NumLimite.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\obj\Debug\netcoreapp2.2\18-NumLimite.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\obj\Debug\netcoreapp2.2\18-NumLimite.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\obj\Debug\netcoreapp2.2\18-NumLimite.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\obj\Debug\netcoreapp2.2\18-NumLimite.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\18-NumLimite\obj\Debug\netcoreapp2.2\18-NumLimite.pdb

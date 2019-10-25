@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\obj\Debug\netcoreapp2.2\20-Vetor10Int.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\obj\Debug\netcoreapp2.2\20-Vetor10Int.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\obj\Debug\netcoreapp2.2\20-Vetor10Int.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\obj\Debug\netcoreapp2.2\20-Vetor10Int.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\bin\Debug\netcoreapp2.2\20-Vetor10Int.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\bin\Debug\netcoreapp2.2\20-Vetor10Int.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\bin\Debug\netcoreapp2.2\20-Vetor10Int.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\bin\Debug\netcoreapp2.2\20-Vetor10Int.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\bin\Debug\netcoreapp2.2\20-Vetor10Int.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\obj\Debug\netcoreapp2.2\20-Vetor10Int.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\20-Vetor10Int\obj\Debug\netcoreapp2.2\20-Vetor10Int.pdb

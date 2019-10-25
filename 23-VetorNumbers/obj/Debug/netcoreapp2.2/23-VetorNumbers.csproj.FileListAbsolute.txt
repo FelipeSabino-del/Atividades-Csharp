@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\bin\Debug\netcoreapp2.2\23-VetorNumbers.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\bin\Debug\netcoreapp2.2\23-VetorNumbers.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\bin\Debug\netcoreapp2.2\23-VetorNumbers.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\bin\Debug\netcoreapp2.2\23-VetorNumbers.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\bin\Debug\netcoreapp2.2\23-VetorNumbers.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\obj\Debug\netcoreapp2.2\23-VetorNumbers.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\obj\Debug\netcoreapp2.2\23-VetorNumbers.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\obj\Debug\netcoreapp2.2\23-VetorNumbers.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\obj\Debug\netcoreapp2.2\23-VetorNumbers.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\obj\Debug\netcoreapp2.2\23-VetorNumbers.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\23-VetorNumbers\obj\Debug\netcoreapp2.2\23-VetorNumbers.pdb
