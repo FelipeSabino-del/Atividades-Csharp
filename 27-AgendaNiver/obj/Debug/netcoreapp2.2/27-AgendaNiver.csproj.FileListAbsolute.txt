@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\obj\Debug\netcoreapp2.2\27-AgendaNiver.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\obj\Debug\netcoreapp2.2\27-AgendaNiver.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\obj\Debug\netcoreapp2.2\27-AgendaNiver.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\obj\Debug\netcoreapp2.2\27-AgendaNiver.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\bin\Debug\netcoreapp2.2\27-AgendaNiver.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\bin\Debug\netcoreapp2.2\27-AgendaNiver.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\bin\Debug\netcoreapp2.2\27-AgendaNiver.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\bin\Debug\netcoreapp2.2\27-AgendaNiver.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\bin\Debug\netcoreapp2.2\27-AgendaNiver.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\obj\Debug\netcoreapp2.2\27-AgendaNiver.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\27-AgendaNiver\obj\Debug\netcoreapp2.2\27-AgendaNiver.pdb

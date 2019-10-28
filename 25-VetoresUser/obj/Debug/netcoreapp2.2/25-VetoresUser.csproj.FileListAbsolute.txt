@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\bin\Debug\netcoreapp2.2\25-VetoresUser.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\bin\Debug\netcoreapp2.2\25-VetoresUser.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\bin\Debug\netcoreapp2.2\25-VetoresUser.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\bin\Debug\netcoreapp2.2\25-VetoresUser.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\bin\Debug\netcoreapp2.2\25-VetoresUser.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\obj\Debug\netcoreapp2.2\25-VetoresUser.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\obj\Debug\netcoreapp2.2\25-VetoresUser.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\obj\Debug\netcoreapp2.2\25-VetoresUser.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\obj\Debug\netcoreapp2.2\25-VetoresUser.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\obj\Debug\netcoreapp2.2\25-VetoresUser.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\25-VetoresUser\obj\Debug\netcoreapp2.2\25-VetoresUser.pdb

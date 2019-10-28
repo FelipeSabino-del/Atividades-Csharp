@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\obj\Debug\netcoreapp2.2\24-SomaVetor.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\obj\Debug\netcoreapp2.2\24-SomaVetor.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\obj\Debug\netcoreapp2.2\24-SomaVetor.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\obj\Debug\netcoreapp2.2\24-SomaVetor.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\bin\Debug\netcoreapp2.2\24-SomaVetor.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\bin\Debug\netcoreapp2.2\24-SomaVetor.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\bin\Debug\netcoreapp2.2\24-SomaVetor.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\bin\Debug\netcoreapp2.2\24-SomaVetor.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\bin\Debug\netcoreapp2.2\24-SomaVetor.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\obj\Debug\netcoreapp2.2\24-SomaVetor.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\24-SomaVetor\obj\Debug\netcoreapp2.2\24-SomaVetor.pdb

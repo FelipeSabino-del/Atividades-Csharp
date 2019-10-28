@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\obj\Debug\netcoreapp2.2\26-ListaNomes.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\obj\Debug\netcoreapp2.2\26-ListaNomes.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\obj\Debug\netcoreapp2.2\26-ListaNomes.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\obj\Debug\netcoreapp2.2\26-ListaNomes.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\bin\Debug\netcoreapp2.2\26-ListaNomes.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\bin\Debug\netcoreapp2.2\26-ListaNomes.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\bin\Debug\netcoreapp2.2\26-ListaNomes.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\bin\Debug\netcoreapp2.2\26-ListaNomes.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\bin\Debug\netcoreapp2.2\26-ListaNomes.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\obj\Debug\netcoreapp2.2\26-ListaNomes.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\26-ListaNomes\obj\Debug\netcoreapp2.2\26-ListaNomes.pdb
