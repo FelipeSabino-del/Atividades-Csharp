@@ -14,14 +14,17 @@ namespace POO_AgendaTelefone
         public string _Nome
         {
             get{return Nome;}
+            set{this.Nome = value;}
         }
         public string _Telefone
         {
             get{return Telefone;}
+            set{this.Telefone = value;}
         }
         public string _Aniversario
         {
             get{return Aniversario;}
+            set{this.Aniversario = value;}
         }
 
         public Registro (string Nome, string Telefone, string Aniversario)

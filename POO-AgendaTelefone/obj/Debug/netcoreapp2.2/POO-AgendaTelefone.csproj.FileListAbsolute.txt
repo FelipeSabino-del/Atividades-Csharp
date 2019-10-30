@@ -1,0 +1,11 @@
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\bin\Debug\netcoreapp2.2\POO-AgendaTelefone.deps.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\bin\Debug\netcoreapp2.2\POO-AgendaTelefone.runtimeconfig.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\bin\Debug\netcoreapp2.2\POO-AgendaTelefone.runtimeconfig.dev.json
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\bin\Debug\netcoreapp2.2\POO-AgendaTelefone.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\bin\Debug\netcoreapp2.2\POO-AgendaTelefone.pdb
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\obj\Debug\netcoreapp2.2\POO-AgendaTelefone.csprojAssemblyReference.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\obj\Debug\netcoreapp2.2\POO-AgendaTelefone.csproj.CoreCompileInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\obj\Debug\netcoreapp2.2\POO-AgendaTelefone.AssemblyInfoInputs.cache
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\obj\Debug\netcoreapp2.2\POO-AgendaTelefone.AssemblyInfo.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\obj\Debug\netcoreapp2.2\POO-AgendaTelefone.dll
+C:\Users\48417687858\Documents\Senai\Atividades C#\POO-AgendaTelefone\obj\Debug\netcoreapp2.2\POO-AgendaTelefone.pdb
