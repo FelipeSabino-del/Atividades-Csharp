@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\28-AgendaTelefone\\28-AgendaTelefone.csproj": {}
+    "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\ZooLogico\\ZooLogico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\28-AgendaTelefone\\28-AgendaTelefone.csproj": {
+    "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\ZooLogico\\ZooLogico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\28-AgendaTelefone\\28-AgendaTelefone.csproj",
-        "projectName": "28-AgendaTelefone",
-        "projectPath": "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\28-AgendaTelefone\\28-AgendaTelefone.csproj",
+        "projectUniqueName": "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\ZooLogico\\ZooLogico.csproj",
+        "projectName": "ZooLogico",
+        "projectPath": "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\ZooLogico\\ZooLogico.csproj",
         "packagesPath": "C:\\Users\\48417687858\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\28-AgendaTelefone\\obj\\",
+        "outputPath": "C:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\ZooLogico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -39,12 +39,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
