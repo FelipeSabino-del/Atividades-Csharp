@@ -73,14 +73,14 @@ namespace ZooLogico
             if ((typeof(IAquatico)).Equals(@interface))
             {
                 int index = 0;
+                opcaoUsuario -= -1;
                 foreach (var item in Lago)
                 {
                     if (item == null)
                     {
                         System.Console.WriteLine($":::{classe.Name} pode ir para a Piscina:::");
                         LagoGelo[index] = animal;
-                        var remover = Arca.Animais.Remove(opcaoUsuario);
-                        --codigo;
+                        var remover = Arca.Animais.Remove(Arca.Animais.ElementAt(opcaoUsuario).Key);
                         break;
                     }
                     ++index;
@@ -110,7 +110,8 @@ namespace ZooLogico
                     {
                         System.Console.WriteLine($":::{classe.Name} pode ir para o Aquário:::");
                         Aquario[index] = animal;
-                        var remover = Arca.Animais.Remove(opcaoUsuario);
+                        var remover = Arca.Animais.Remove(Arca.Animais.ElementAt(opcaoUsuario).Key);
+                        
                         break;
                     }
                     ++index;
