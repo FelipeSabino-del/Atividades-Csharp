@@ -28,3 +28,5 @@ C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcor
 C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\McBonaldsMVC.dll
 C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\McBonaldsMVC.pdb
 C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\McBonaldsMVC.csproj.CopyComplete
+C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\HeaderHomePage.g.cshtml.cs

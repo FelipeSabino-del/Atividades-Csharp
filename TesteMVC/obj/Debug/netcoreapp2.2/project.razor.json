@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\McBonaldsMVC\\McBonaldsMVC.csproj",
+  "FilePath": "c:\\Users\\48417687858\\Documents\\Senai\\Atividades C#\\TesteMVC\\TesteMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2958,7 +2958,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "McBonaldsMVC",
+  "RootNamespace": "TesteMVC",
   "Documents": [
     {
       "FilePath": "Views\\Shared\\Error.cshtml",
@@ -2981,11 +2981,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Shared\\_HeaderHomePage.cshtml",
-      "TargetPath": "Views\\Shared\\_HeaderHomePage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
@@ -2998,11 +2993,6 @@
     {
       "FilePath": "Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Cliente\\Login.cshtml",
-      "TargetPath": "Views\\Cliente\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
