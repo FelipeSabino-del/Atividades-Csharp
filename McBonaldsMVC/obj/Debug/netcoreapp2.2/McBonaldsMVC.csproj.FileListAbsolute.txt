@@ -32,3 +32,4 @@ C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcor
 C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_HeaderHomePage.g.cshtml.cs
 C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Erro.g.cshtml.cs
 C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\48417687858\Documents\Senai\Atividades C#\McBonaldsMVC\obj\Debug\netcoreapp2.2\Razor\Views\Pedido\Index.g.cshtml.cs
