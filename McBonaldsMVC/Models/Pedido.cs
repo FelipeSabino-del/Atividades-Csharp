@@ -12,7 +12,9 @@ namespace McBonaldsMVC.Models
 
         public Pedido()
         {
-
+            this.Cliente = new Cliente();
+            this.Hamburguer = new Hamburguer();
+            this.Shake = new Shake();
         }
     }
 }
