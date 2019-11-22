@@ -6,7 +6,7 @@ using McBonaldsMVC.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 namespace McBonaldsMVC.Controllers {
-    public class CadastroController : Controller {
+    public class CadastroController : AbstractController {
         ClienteRepository clienteRepository = new ClienteRepository ();
         public IActionResult Index () {
             return View ();
