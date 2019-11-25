@@ -4,7 +4,7 @@ using McBonaldsMVC.Models;
 
 namespace McBonaldsMVC.ViewModels
 {
-    public class PedidoViewModel
+    public class PedidoViewModel : BaseViewModel
     {
         public List<Hamburguer> Hamburgueres {get;set;}
         public List<Shake> Shakes {get;set;}
