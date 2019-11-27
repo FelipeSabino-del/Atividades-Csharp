@@ -43,7 +43,6 @@ namespace McBonaldsMVC.Controllers
         [HttpPost]
         public IActionResult Registrar(IFormCollection form)
         {
-            ViewData["Action"] = "Pedido";
             Pedido pedido = new Pedido();
 
             var nomeShake = form["shake"];
@@ -67,9 +66,19 @@ namespace McBonaldsMVC.Controllers
 
             if (pedidoRepository.Inserir(pedido))
             {
-                return View ("Sucesso");
+                return View ("Sucesso", new BaseViewModel()
+                {
+                    NomeView = "Pedido",
+                    UsuarioEmail = ObterUsuarioSession(),
+                    UsuarioNome = ObterUsuarioNomeSession()
+                });
             }else{
-                return View ("Erro");
+                return View ("Erro", new BaseViewModel()
+                {
+                    NomeView = "Pedido",
+                    UsuarioEmail = ObterUsuarioSession(),
+                    UsuarioNome = ObterUsuarioNomeSession()
+                });
             }
         }
     }
