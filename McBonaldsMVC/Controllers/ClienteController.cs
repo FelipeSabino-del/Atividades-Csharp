@@ -60,7 +60,7 @@ namespace McBonaldsMVC.Controllers {
     
         public IActionResult Historico ()
         {
-            var emailCliente = HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL);
+            var emailCliente = ObterUsuarioSession();
             var pedidoCliente = pedidoRepository.ObterTodosPorCliente(emailCliente);
 
             return View(new HistoricoViewModel()

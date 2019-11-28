@@ -22,14 +22,18 @@ namespace McBonaldsMVC.Controllers {
             try {
                 Cliente cliente = new Cliente (form["nome"], form["endereco"], form["telefone"], form["senha"], form["email"], DateTime.Parse (form["data-nascimento"]));
                 clienteRepository.Inserir (cliente);
-                return View ("Sucesso", new BaseViewModel(){
-                    NomeView = "Cadastro"
+                return View ("Sucesso", new RespostaViewModel(){
+                    NomeView = "Cadastro",
+                    UsuarioEmail = ObterUsuarioSession(),
+                    UsuarioNome = ObterUsuarioNomeSession()
                 });
 
             } catch (Exception e) {
                 System.Console.WriteLine (e.StackTrace);
-                return View ("Erro", new BaseViewModel(){
-                    NomeView = "Cadastro"
+                return View ("Erro", new RespostaViewModel(){
+                    NomeView = "Cadastro",
+                    UsuarioEmail = ObterUsuarioSession(),
+                    UsuarioNome = ObterUsuarioNomeSession()
                 });
             }
 
