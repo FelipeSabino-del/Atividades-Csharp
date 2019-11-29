@@ -1,5 +1,5 @@
 using System;
-
+using McBonaldsMVC.Enums;
 using McBonaldsMVC.Models;
 using McBonaldsMVC.Repositories;
 using McBonaldsMVC.ViewModels;
@@ -21,6 +21,7 @@ namespace McBonaldsMVC.Controllers {
             ViewData["Action"] = "Cadastro";
             try {
                 Cliente cliente = new Cliente (form["nome"], form["endereco"], form["telefone"], form["senha"], form["email"], DateTime.Parse (form["data-nascimento"]));
+                cliente.TipoUsuario = (uint) TiposUsuario.CLIENTE;
                 clienteRepository.Inserir (cliente);
                 return View ("Sucesso", new RespostaViewModel(){
                     NomeView = "Cadastro",

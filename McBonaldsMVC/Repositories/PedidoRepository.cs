@@ -40,6 +40,32 @@ namespace McBonaldsMVC.Repositories
             return pedidosCliente;
         }
 
+        public bool Atualizar(Pedido pedido)
+        {
+            var pedidosTotais = File.ReadAllLines(PATH);
+            var pedidoCSV = PrepararPedidoCSV(pedido);
+            var linhaPedido = -1;
+            var resultado = false;
+
+            for (int i = 0; i < pedidosTotais.Length; i++)
+            {
+                var idConvertido = ulong.Parse(ExtrairValorDoCampo("id", pedidosTotais[i]));
+                if (pedido.Id.Equals(idConvertido))
+                {
+                    linhaPedido = i;
+                    resultado = true;
+                    break;
+                }
+            }
+            if (resultado)
+            {
+                pedidosTotais[linhaPedido] = pedidoCSV;
+                File.WriteAllLines(PATH, pedidosTotais);
+            }
+
+            return resultado;
+        }
+
         public List<Pedido> ObterTodos()
         {
             var linhas = File.ReadAllLines(PATH);
@@ -65,6 +91,19 @@ namespace McBonaldsMVC.Repositories
                 pedidos.Add(pedido);
             }
             return pedidos;
+        }
+
+        public Pedido ObterPor(ulong id)
+        {
+            var pedidosTotais = ObterTodos();
+            foreach (var pedido in pedidosTotais)
+            {
+                if (id.Equals(pedido.Id))
+                {
+                    return pedido;
+                }
+            }
+            return null;
         }
 
         private string PrepararPedidoCSV(Pedido pedido)
